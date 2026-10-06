@@ -1,5 +1,2 @@
-streamlit
-fpdf2
-reportlab
-streamlit-js-eval
-geopy
+streamlit>=1.32
+openpyxl>=3.1
